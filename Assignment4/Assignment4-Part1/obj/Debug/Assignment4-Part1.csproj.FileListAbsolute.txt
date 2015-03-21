@@ -1,0 +1,5 @@
+c:\users\you can change this!\documents\visual studio 2013\Projects\Assignment4\Assignment4-Part1\bin\Debug\Assignment4-Part1.exe.config
+c:\users\you can change this!\documents\visual studio 2013\Projects\Assignment4\Assignment4-Part1\bin\Debug\Assignment4-Part1.exe
+c:\users\you can change this!\documents\visual studio 2013\Projects\Assignment4\Assignment4-Part1\bin\Debug\Assignment4-Part1.pdb
+c:\users\you can change this!\documents\visual studio 2013\Projects\Assignment4\Assignment4-Part1\obj\Debug\Assignment4-Part1.exe
+c:\users\you can change this!\documents\visual studio 2013\Projects\Assignment4\Assignment4-Part1\obj\Debug\Assignment4-Part1.pdb
